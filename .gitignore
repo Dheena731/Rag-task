@@ -1,2 +1,5 @@
 *venv
-*.pycache
+*__pycache__*
+resume_index.faiss
+resume_meta.pkl
+*env
